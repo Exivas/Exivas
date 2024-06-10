@@ -30,3 +30,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Exivas&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<h3 align="left">Actividad:</h3>
+
+![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Exivas&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
