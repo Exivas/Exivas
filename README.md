@@ -1,12 +1,9 @@
 <h1 align="center"> Hi there 👋, I'm Erick Corcino</h1>
 <pre>
-💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
-📚 I have a Bachelors in Computer Science and a Masters in Artificial Intelligence & Deep Learning
-📝 I have a strong interest in building Frontend Uis for ML applications
-🔭 Working on Shopify Themes and React websites using Gatsby.js
-🌱 Focusing on Learning about customer needs and making their lives easier
-🌟 Main languages: Javascript, Python
-🚩 Interested in Full Stack Machine Learning Application development
+💻 Soy programador Full Stack enfocado mas al Back End  
+📚 Soy estudiante de termino de desarrollo de software en ITLA 
+📝 Tengo especial interes en los micros servicios y la seguridad web
+🌟 Lenguajes que mas uso: JavaScript, TypeScript,Phyton,C#
 </pre>
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
