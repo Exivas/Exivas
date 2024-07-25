@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋, I'm Erick Corcino</h1>
+<h1 align="center"> Hola 👋, soy Erick Corcino</h1>
 <pre>
 💻 Soy programador Full Stack enfocado mas al Back End  
 📚 Soy estudiante de termino de desarrollo de software en ITLA 
